@@ -36,7 +36,6 @@ A modern, feature-rich task management application built with the MERN stack (Mo
 - MongoDB database with Mongoose ODM
 - React Context for state management
 - Axios for HTTP requests
-- Docker support for easy deployment
 
 ## 📸 Screenshots
 
@@ -106,28 +105,6 @@ A modern, feature-rich task management application built with the MERN stack (Mo
 - **State Management**: React Context API
 - **Styling**: Custom CSS
 
-### DevOps
-- **Containerization**: Docker & Docker Compose
-- **Web Server**: Nginx (production)
-- **Version Control**: Git
-
-## 🚀 Quick Start
-
-### Option 1: Docker (Recommended)
-
-```bash
-# Clone the repository
-git clone https://github.com/shimonA1/task-manager-fullstack.git
-cd task-manager-fullstack
-
-# Start all services
-docker-compose up -d
-
-# Access the application
-# Frontend: http://localhost:3000
-# Backend: http://localhost:5000
-```
-
 ### Option 2: Manual Setup
 
 **Prerequisites**: Node.js 14+, MongoDB
@@ -181,8 +158,7 @@ This project demonstrates proficiency in:
 ✅ **Authentication & Authorization** - JWT-based security  
 ✅ **Database Design** - MongoDB schema and relationships  
 ✅ **State Management** - React Context API  
-✅ **Responsive UI** - Modern CSS and component design  
-✅ **Docker** - Containerization and deployment  
+✅ **Responsive UI** - Modern CSS and component design   
 ✅ **Git** - Version control and collaboration  
 
 ## 📝 Code Quality
